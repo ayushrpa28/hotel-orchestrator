@@ -52,7 +52,7 @@ SETUP & RUN (DOCKER)
 
 1. Clone the project
 
-git clone <your-repo-url>
+git clone https://github.com/ayushrpa28/hotel-orchestrator
 cd hotel-orchestrator
 
 2. Start all services
